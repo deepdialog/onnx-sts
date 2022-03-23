@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+/notebooks
+/*.pkl
+/dataset
+/__pycache__

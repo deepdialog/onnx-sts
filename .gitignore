@@ -1,0 +1,4 @@
+*.onnx
+/paraphrase-multilingual-mpnet-base-v2
+.ipynb_checkpoints
+*.py[cod]
